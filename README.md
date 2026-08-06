@@ -1,5 +1,3 @@
-<!--
-**nitesh7254/nitesh7254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🔭 Passionate Java Full Stack Developer exploring modern web technologies.<br><br>🤝 Excited to collaborate on innovative software development projects.<br><br>💡 Always looking for opportunities to learn, build, and grow.<br><br>🌱 Currently mastering Spring Boot.<br><br>💬 Let's talk about Java, SQL, Backend Development, REST APIs, and Problem Solving.<br><br>⚡ Fun Fact: Every bug teaches me something new, and every project makes me a better developer. 🚀
 
@@ -18,4 +16,3 @@
 [![](https://komarev.com/ghpvc/?username=nitesh7254&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
