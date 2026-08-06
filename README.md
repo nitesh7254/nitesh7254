@@ -1,4 +1,4 @@
-# 💫 About Me 👋 Hi , I'm Nitesh Kumar:
+# 💫 About Me :
 
 🔭 Passionate Java Full Stack Developer exploring modern web technologies.<br><br>🤝 Excited to collaborate on innovative software development projects.<br><br>💡 Always looking for opportunities to learn, build, and grow.<br><br>🌱 Currently mastering Spring Boot.<br><br>💬 Let's talk about Java, SQL, Backend Development, REST APIs, and Problem Solving.<br><br>⚡ Fun Fact: Every bug teaches me something new, and every project makes me a better developer. 🚀
 
